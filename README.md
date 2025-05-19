@@ -85,3 +85,7 @@ http://your-ip:3000  # Replace with the correct port if different
 - Add logout functionality
 - Implement tests for each service
 - Handle API errors more gracefully
+
+- ## 🎥 YOUTUBE Video
+
+👉 [Click here to watch video](https://youtu.be/4rZgSiZe33E)
